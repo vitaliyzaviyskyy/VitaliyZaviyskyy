@@ -1,0 +1,28 @@
+body{
+	font: 24px Arial,sans-serif;
+	background:linear-gradient(to right, grey ,silver);
+	text-align:center;
+}
+
+	
+table{
+	margin: auto;
+	border-collapse: collapse;
+	box-shadow: 10px 20px 20px grey;
+}
+td{
+	background: silver;
+	color:black;
+	border-right: 5px solid;
+	border-bottom: 5px solid;
+	text-align: right;
+	vertical-align: bottom;
+	width:100px;
+	height: 100px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.big_cell{
+	width:130px;
+	border-width: 5px;
+}
