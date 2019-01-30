@@ -1,0 +1,42 @@
+body{
+	font: 24px Arial,sans-serif;
+	background:linear-gradient(to right, grey ,silver);
+	text-align:center;
+}
+
+.head_block{
+	margin:auto;
+	height:300px;
+	width:600px;
+	}
+.gen_block{
+	height: 300px;
+	width: 300px;
+	float:left;
+
+
+}
+.block{
+	background: silver;
+	padding: 95px 7px 7px;
+	height:139px;
+	width: 143px;
+	margin-right: 7px;
+	margin-bottom: 7px;
+	float:left;
+	text-align: right;
+	color:black;
+	box-sizing: border-box;
+}
+.block2{
+	background: silver;
+	padding: 52px 7px 7px;
+	height: 90px;
+	width: 90px;
+	margin-right: 7px;
+	margin-bottom: 7px;
+	float:left;
+	text-align: right;
+	color: black;
+	box-sizing: border-box;
+}
